@@ -94,5 +94,5 @@ for (let i = 0; i < 10; i++) {
 
 ## Использованный источники:
 
-medium.com/webbdev/7-рекомендаций-по-оформлению-кода-на-javascript-4d0d4c287281
-https://learn.javascript.ru/coding-style
++ medium.com/webbdev/7-рекомендаций-по-оформлению-кода-на-javascript-4d0d4c287281
++ https://learn.javascript.ru/coding-style
